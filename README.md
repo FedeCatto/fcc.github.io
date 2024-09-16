@@ -11,3 +11,6 @@
 [Publication](https://osf.io/3t6fk/)
 
 Extracted data from independent studies published until April 2024 with information regarding toxicity by sex. Only studies that involved patients with melanoma as the primary disease were included. Summary Odds Ratio estimates were obtained through random-effects models, and 95% Confidence Intervals were estimated. I^2 was used to evaluate the between-study heterogeneity. Publication bias was investigated using Begg's and Egger's tests. All the statistical analisys were performed using R.
+
+### Heart Failure Analysis
+[Publication](file:///C:/Users/fccat/Documents/Projects/Heart_Failure_Analysis/Heart_Failure_Analysis.html)
