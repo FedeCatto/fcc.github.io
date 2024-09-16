@@ -4,7 +4,7 @@
 - B.S., Statistics and Economics | The University of Milan Bicocca (_September 2024_)
 ### Work Experience
 **Internship in the Department of Experimental Oncology at the European Institute of Oncology (_March 2024-August 2024_)**
-- I performed the statistical analyses, using R, regarding a meta-analysis: "Sex-Related Differences in Toxicities caused by Treatment of Advanced Melanoma Patients" (DOI:10.17605/OSF.IO/3T6FK)
+- I performed the statistical analyses regarding a meta-analysis: "Sex-Related Differences in Toxicities caused by Treatment of Advanced Melanoma Patients" (DOI:10.17605/OSF.IO/3T6FK)
 
-### Projects
-Heart Failure Analysis
+## Projects
+
