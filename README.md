@@ -14,4 +14,5 @@ Extracted data from independent studies published until April 2024 with informat
 
 ### Heart Failure Analysis
 
+By analyzing data that include characteristics relevant to heart disease, predictive tools can be developed to help detect potential heart problems before they become serious, enabling early diagnosis and management.
 We conducted a data mining analysis in which several classification models were compared to find the best in terms of performance, including: MDA, Classification Trees, K-NN, Logistic Regression. The model we estimated after careful analysis, showed good fit to the test set and excellent prediction capabilities. Although the focus of model selection was primarily on the identification ability of the diseased, the model achieved excellent all-around performance.
