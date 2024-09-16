@@ -8,4 +8,4 @@
 
 ## Projects
 ### Sex-Related Differences in Toxicities caused by Treatment of Advanced Melanoma Patients
-[Publication]:(https://osf.io/3t6fk/)
+[Publication](https://osf.io/3t6fk/)
