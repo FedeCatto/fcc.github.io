@@ -1,4 +1,4 @@
-# Statistician
+# Data Scientist
 
 ### Education
 - B.S., Statistics and Economics | The University of Milan Bicocca (_September 2024_)
