@@ -38,16 +38,6 @@ This study contributes to the growing body of evidence on sex-specific responses
 Limitations include the retrospective nature of the analysis and the limited ability to extract general AE data from many studies, which constrained the analysis to specific toxicity categories.
  (All the statistical analisys were performed using R.)
 
-### Heart Failure Analysis
-
-This project focuses on the early detection of heart failure risk using machine learning models applied to the Heart Failure Dataset, which contains 918 observations and 12 clinical features collected from five different sources.
-The data preprocessing phase included the handling of missing values (notably imputing Cholesterol using the CART method after comparative analysis), standardization of numerical variables, and the creation of balanced training, validation, and test sets. Due to multimodal distributions, models assuming conditional normality such as LDA and QDA were excluded from evaluation.
-Several classification models were tested, including Logistic Regression, K-Nearest Neighbors (K-NN), MDA, and Classification Trees. Model selection was based primarily on Sensitivity (ability to detect patients at risk) and Accuracy. Logistic Regression and K-NN demonstrated the best validation performance.
-In the testing phase, Logistic Regression with stepwise feature selection achieved superior results, avoiding the overfitting issues observed with K-NN. With the default threshold of 0.5, the model reached 88.5% Accuracy and 91.1% Sensitivity. After optimizing the decision threshold to 0.35, performance further improved to 90.7% Accuracy and 96.0% Sensitivity.
-The most influential predictors in the final model included: male sex, high fasting blood sugar (FastingBS1), exercise-induced angina, ST segment slope (Flat and Up), age, and Oldpeak. Interestingly, asymptomatic patients showed a higher risk compared to those presenting various types of chest pain.
-In conclusion, the logistic regression model with stepwise selection and optimized threshold proved to be the most effective and interpretable solution for predicting heart failure risk, confirming the value of machine learning in biomedical data analysis. 
-(All the statistical analisys were performed using R.)
-
 ### Loan Approval Prediction with Machine Learning on Imbalanced Data
 
 This project explores the use of Machine Learning techniques to automate and improve the loan approval process, with a particular focus on addressing the challenge of imbalanced datasets. The main goal is to build a reliable predictive model capable of assessing the likelihood of loan repayment.
