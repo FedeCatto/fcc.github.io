@@ -38,12 +38,5 @@ This study contributes to the growing body of evidence on sex-specific responses
 Limitations include the retrospective nature of the analysis and the limited ability to extract general AE data from many studies, which constrained the analysis to specific toxicity categories.
  (All the statistical analisys were performed using R.)
 
-### Analysis of Tactical Evolution and Player Roles in the NBA (1997–2023)
-
-This project presents a statistical analysis of the tactical evolution in the NBA and the redefinition of player roles over 25 seasons, from 1997 to 2023. The study investigates the transition from rigid traditional positions (Point Guard, Shooting Guard, Small Forward, Power Forward, Center) toward a more fluid and flexible model, often described as "roleless basketball."
-The main goal is to evaluate the declining distinctiveness of traditional roles and validate JJ Redick’s theory, which proposes three functional categories: Ball Handler, Off-Ball Player, and Big. The dataset includes per-game stats (e.g., shooting, passing, rebounding), advanced metrics (e.g., Usage Rate, Net Rating), and physical attributes (height, weight).
-A classification analysis using EDDA shows a rising misclassification error rate for traditional roles—from ~24% in 1997–2002 to ~40% in 2018–2023—demonstrating how statistical boundaries between positions have blurred. Meanwhile, cluster analysis on recent seasons (2019–2023) supports the 3-role model. Ball Handlers show high assist rates and usage; Off-Ball Players are efficient perimeter shooters; Bigs lead in rebounds, blocks, and size.
-Findings confirm that the modern NBA emphasizes skill, versatility, and three-point shooting, shifting away from rigid positional structures. This supports the use of model-based approaches to understand role evolution in sports analytics.
-(All the statistical analisys were performed using R.)
 
 
