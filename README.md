@@ -18,8 +18,6 @@ European Institute of Oncology (IEO), Researcher Intern Milan, MI Mar 2024 – A
 DOI: 10.17605/OSF.IO/3T6FK 2
 • Assisted in data cleaning, exploratory analysis, and results interpretation in a collaborative research environment
 
-## Projects
-
 ### Sex-Related Differences in Toxicities caused by Treatment of Advanced Melanoma Patients
 [Publication](https://osf.io/3t6fk/)
 
