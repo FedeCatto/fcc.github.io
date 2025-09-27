@@ -1,8 +1,7 @@
 # Data Scientist
 
 ## Professional Summary
-Data Science student with a Bachelor’s degree in Statistics and Economics and hands-on experience in meta-analysis
-from an internship at the European Institute of Oncology (IEO). Strong background in data analysis, statistical modeling,
+Data Science student with a Bachelor’s degree in Statistics and Economics. Strong background in data analysis, statistical modeling,
 and machine learning. Initially passionate about machine learning, I thought I had found my path—until I discovered
 deep learning and computer vision, which completely shifted my perspective. Now deeply driven to explore the frontiers
 of AI, with a keen interest in applying data-driven solutions to real-world challenges.
